@@ -1,0 +1,28 @@
+{
+  "name": "tictactoe-by-amarudinn",
+  "version": "1.0.1",
+  "description": "tic tac toe",
+  "keywords": [
+    "tic",
+    "tac",
+    "toe"
+  ],
+  "homepage": "https://github.com/Amarudinn/tictactoe#readme",
+  "bugs": {
+    "url": "https://github.com/Amarudinn/tictactoe/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amarudinn/tictactoe.git"
+  },
+  "license": "ISC",
+  "author": "Amarudinn",
+  "type": "commonjs",
+  "main": "titactoe.js",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
